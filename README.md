@@ -1,6 +1,3 @@
-# SimpleAuth
-A simple Python-based registration and login system that uses local file storage for user credentials.
-
 # SimpleAuth Python 🔐
 
 A lightweight authentication system written in Python that handles user registration and login using a local text-based database.
